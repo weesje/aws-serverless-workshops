@@ -1,6 +1,6 @@
 {
   "name": "wild-rydes-workshops",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Workshops showcasing AWS serverless architectures and use cases.",
   "main": "gulpfile.js",
   "devDependencies": {
